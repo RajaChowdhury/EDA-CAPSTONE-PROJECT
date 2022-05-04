@@ -1,2 +1,2 @@
 # EDA-CAPSTONE-PROJECT
-Airbnb Booking Analysis-EDA Project
+Hotel Booking Analysis-EDA Project
